@@ -1,0 +1,45 @@
+[
+ {
+  "name": "bawarchi",
+  "area": "Cross Roads",
+  "eta" : 20,
+  "tags": ["indian", "asian"],
+  "rating": 4.5
+ },
+ {
+  "name": "chutnys",
+  "area": "JB",
+  "eta" : 25,
+  "tags": ["indian", "asian"],
+  "rating": 4.0
+ },
+ {
+  "name": "Ottimo Cucina Italiana",
+  "area": "HighTech City",
+  "eta" : 30,
+  "tags": ["Italian","Pizza","European"],
+  "rating": 4.8
+ },
+  {
+  "name": "bawarchi",
+  "area": "Cross Roads",
+  "eta" : 20,
+  "tags": ["indian", "asian"],
+  "rating": 4.5
+ },
+ {
+  "name": "chutnys",
+  "area": "JB",
+  "eta" : 25,
+  "tags": ["indian", "asian"],
+  "rating": 4.0
+ },
+ {
+  "name": "Ottimo Cucina Italiana",
+  "area": "HighTech City",
+  "eta" : 30,
+  "tags": ["Italian","Pizza","European"],
+  "rating": 4.8
+ }
+]
+  
