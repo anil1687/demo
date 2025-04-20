@@ -5,7 +5,7 @@ ES 2020 Features
 globalThis context (this)
     console.log(window, this, self, frames, globalThis)
     In web workers only self will work
-    In Node js we can't use windo object instead of that we can use global
+    In Node js we can't use window object instead of that we can use global
     to utilize in all cases we can go with globalThis
 
 promise.allSettled()
